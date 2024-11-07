@@ -1,0 +1,14 @@
+
+JWT_SECRET='my_secret_key'
+
+EMAIL_USER='colton95@ethereal.email'
+EMAIL_PASS='VXWN1WG1nSPnwfzf82'
+
+IPFS_NODE_PORT = 5001
+SERVER_PORT = 3000
+SOCKET_SERVER_PORT = 5000
+
+DB_URI= 'mongodb://localhost:27017/doqfy'
+IPFS_BASE_URI='http://localhost:9090'
+CLIENT_BASE_URI='http://localhost:5173'
+IPFS_NODE_HOST = 'localhost'
